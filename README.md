@@ -1,7 +1,7 @@
 # FA 7 - Campus-Related Statistical Analysis
 
 ## Group
-**Folder:** `FA7_GroupNumber`
+**Folder:** `FA7_Group 6`
 
 ## Topics
 - **Part 1 (Exponential Distribution):** Time intervals between students entering a campus restroom.
